@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "565440036911",
+    "project_id": "photo-sharing-clone-a0693",
+    "storage_bucket": "photo-sharing-clone-a0693.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:565440036911:android:98192bd614908addeac6da",
+        "android_client_info": {
+          "package_name": "Aftab.pinterest"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUDTgvSFt4DsNjUPFv9VO5RhHMdV_RaE8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
